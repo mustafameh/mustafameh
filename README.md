@@ -35,12 +35,12 @@ I'm an AI Engineer who specializes in applying machine learning techniques to so
 <div align="left" style="margin-bottom: 10px;">
   <h4>🔍 Sherlock-AI: Character Emulation with LLMs 
     <a href="https://www.sherlock.mustafa.ovh/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=internetexplorer&logoColor=white" align="right" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/🌐-Demo-lightgrey?style=flat" align="right" alt="Live Demo"/>
     </a>
   </h4>
 </div>
 <details>
-<summary>View Details</summary>
+<summary></summary>
 
 A transferable character emulation pipeline demonstrated with Sherlock Holmes, featuring:
 - Fine-tuned a quantized LLaMA model using LoRA
@@ -56,12 +56,12 @@ A transferable character emulation pipeline demonstrated with Sherlock Holmes, f
 <div align="left" style="margin: 20px 0 10px 0;">
   <h4>📚 CourseCompanion: RAG-Powered Course Assistant 
     <a href="https://www.coursecompanion.mustafa.ovh/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=internetexplorer&logoColor=white" align="right" alt="Live Demo"/>
+      <img src="https://img.shields.io/badge/🌐-Demo-lightgrey?style=flat" align="right" alt="Live Demo"/>
     </a>
   </h4>
 </div>
 <details>
-<summary>View Details</summary>
+<summary></summary>
 
 An educational platform that empowers AI teaching assistants by:
 - Auto-generating knowledge bases from course materials
@@ -76,12 +76,12 @@ An educational platform that empowers AI teaching assistants by:
 <div align="left" style="margin: 20px 0 10px 0;">
   <h4>👁️ DeepGaze: Autism Diagnosis System 
     <a href="https://youtu.be/c82RrlJVLvo" target="_blank">
-      <img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="right" alt="Demo Video"/>
+      <img src="https://img.shields.io/badge/📺-Demo-lightgrey?style=flat" align="right" alt="Demo Video"/>
     </a>
   </h4>
 </div>
 <details>
-<summary>View Details</summary>
+<summary></summary>
 
 An innovative approach to early autism detection through:
 - Webcam-based eye-tracking integrated into a modular web app
