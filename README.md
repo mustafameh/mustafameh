@@ -1,21 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Mustafa+Mehmood;AI+%26+ML+Engineer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Hi!+👋;+I'm+Mustafa; AI+%26+ML+Engineer;Data+Scientist" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🧠 About Me
 
-I'm an AI & ML Engineer who specializes in applying machine learning and deep learning techniques to solve complex real-world problems.
+I'm an AI Engineer who specializes in applying machine learning techniques to solve complex real-world problems.
  
- 
-- 🎓 MSc in Artificial Intelligence (Distinction) | BSc in Computer Science (Hons)
+- 🎓 MSc in Artificial Intelligence | BSc in Computer Science
 - 💡 Passionate about NLP, Computer Vision, and advanced data analytics
-- 📫 Contact: mustafamehmood8998@gmail.com
 
 ### 🌐 Connect With Me
 <div align="left">
@@ -24,6 +22,9 @@ I'm an AI & ML Engineer who specializes in applying machine learning and deep le
   </a>
   <a href="https://linkedin.com/in/mustafa-meh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mustafamehmood8998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
