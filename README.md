@@ -32,8 +32,15 @@ I'm an AI Engineer who specializes in applying machine learning techniques to so
 
 ### 🚀 Featured Projects
 
+<div align="left" style="margin-bottom: 10px;">
+  <h4>🔍 Sherlock-AI: Character Emulation with LLMs 
+    <a href="https://www.sherlock.mustafa.ovh/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=internetexplorer&logoColor=white" align="right" alt="Live Demo"/>
+    </a>
+  </h4>
+</div>
 <details>
-<summary><b>🔍 Sherlock-AI: Character Emulation with LLMs</b></summary>
+<summary>View Details</summary>
 
 A transferable character emulation pipeline demonstrated with Sherlock Holmes, featuring:
 - Fine-tuned a quantized LLaMA model using LoRA
@@ -41,37 +48,49 @@ A transferable character emulation pipeline demonstrated with Sherlock Holmes, f
 - Integrated text-to-speech for realistic interactions
 - 72.4% user preference in A/B testing
 
-🔗 [Live Demo](https://www.sherlock.mustafa.ovh/) • [GitHub Repo](https://github.com/mustafameh/Sherlock-LLM)
+🔗 [GitHub Repo](https://github.com/mustafameh/Sherlock-LLM)
 
 **Tech Stack:** Hugging Face Transformers, LoRA, Flask, JavaScript, VITS
 </details>
 
+<div align="left" style="margin: 20px 0 10px 0;">
+  <h4>📚 CourseCompanion: RAG-Powered Course Assistant 
+    <a href="https://www.coursecompanion.mustafa.ovh/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=internetexplorer&logoColor=white" align="right" alt="Live Demo"/>
+    </a>
+  </h4>
+</div>
 <details>
-<summary><b>📚 CourseCompanion: RAG-Powered Course Assistant</b></summary>
+<summary>View Details</summary>
 
 An educational platform that empowers AI teaching assistants by:
 - Auto-generating knowledge bases from course materials
 - Implementing Retrieval-Augmented Generation (RAG) with LangChain
 - Incorporating role-based access control for content management
 
-🔗 [Live Demo](https://www.coursecompanion.mustafa.ovh/) • [GitHub Repo](https://github.com/mustafameh/Course-Content-Q-A)
+🔗 [GitHub Repo](https://github.com/mustafameh/Course-Content-Q-A)
 
 **Tech Stack:** LangChain, OAuth, Flask, PostgreSQL, Flair
 </details>
 
+<div align="left" style="margin: 20px 0 10px 0;">
+  <h4>👁️ DeepGaze: Autism Diagnosis System 
+    <a href="https://youtu.be/c82RrlJVLvo" target="_blank">
+      <img src="https://img.shields.io/badge/Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="right" alt="Demo Video"/>
+    </a>
+  </h4>
+</div>
 <details>
-<summary><b>👁️ DeepGaze: Autism Diagnosis System</b></summary>
+<summary>View Details</summary>
 
 An innovative approach to early autism detection through:
 - Webcam-based eye-tracking integrated into a modular web app
 - Transfer learning with custom vision models achieving 92% diagnostic accuracy
 
-🔗 [Demo Video](https://youtu.be/c82RrlJVLvo) • [GitHub Repo](https://github.com/mustafameh/Automatic-Autism-Diagnosis-Eyetracking-Machinelearning-Research-Webapplication)
+🔗 [GitHub Repo](https://github.com/mustafameh/Automatic-Autism-Diagnosis-Eyetracking-Machinelearning-Research-Webapplication)
 
 **Tech Stack:** Python, Flask, JavaScript, Keras, OpenCV, WebGazer.js, sklearn
 </details>
-
----
 
 ### 💻 Tech Stack
 
