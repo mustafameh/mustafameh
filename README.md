@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=500&lines=Hi!+I'm+Mustafa+%F0%9F%91%8B;Applied+Scientist+%40+Thomson+Reuters;AI+%7C+NLP+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=600&lines=Hi!+I'm+Mustafa+%F0%9F%91%8B;Applied+Scientist+%40+Thomson+Reuters;AI+%7C+NLP+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,8 +24,8 @@
 Applied Scientist at **Thomson Reuters**, building tool-augmented multi-agent systems for legal AI. I work at the intersection of LLMs, NLP, and real-world product deployment — from fine-tuning models for contract analysis to designing adversarial evaluation pipelines for agentic solutions.
 
 - MSc Artificial Intelligence (Distinction) & BSc Computer Science — University of Nottingham
+- Background in RLHF, computer vision, and ML for medical diagnostics
 - Published researcher in ML-driven medical diagnosis
-- Previously trained reasoning LLMs through RLHF at **Outlier AI**, contributing to models used by Google and Meta
 
 ---
 
