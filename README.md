@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.mustafa.ovh" target="_blank">
+  <a href="https://mustafamehmood.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/mustafa-meh" target="_blank">
@@ -35,7 +35,7 @@ Applied Scientist at **Thomson Reuters**, building tool-augmented multi-agent sy
 <tr>
 <td width="50%" valign="top">
 
-#### [Sherlock-AI](https://github.com/mustafameh/Sherlock-LLM) &nbsp; [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://www.sherlock.mustafa.ovh/)
+#### [Sherlock-AI](https://github.com/mustafameh/Sherlock-LLM) &nbsp; [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://agentic-sherlock.vercel.app/)
 
 A transferable character emulation pipeline with Sherlock Holmes as the proof of concept.
 
@@ -71,7 +71,7 @@ Early autism detection from webcam-based eye-tracking data.
 
 - PCA + sklearn classifiers and a custom Keras CNN with transfer learning reaching **92% accuracy**
 - Modular Flask web app for data collection, visualization, prediction, and model retraining
-- **Published:** [Springer, 2024](https://link.springer.com/chapter/10.1007/978-981-97-7181-3_20) — *Pre-diagnosis for ASD Using Eye-Tracking and ML Techniques*
+- **Published:** [Springer, 2024](https://doi.org/10.1007/978-981-97-1417-9_23) — *Pre-diagnosis for ASD Using Eye-Tracking and ML Techniques*
 
 `Keras` `OpenCV` `WebGazer.js` `Flask` `sklearn`
 
