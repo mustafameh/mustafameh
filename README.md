@@ -1,22 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=500&lines=Hi!+I'm+Mustafa+%F0%9F%91%8B;Applied+Scientist+%40+Thomson+Reuters;AI+%7C+NLP+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B88C3&center=true&vCenter=true&random=false&width=435&lines=Hi!+👋;+I'm+Mustafa; AI+%26+ML+Engineer;Data+Scientist" alt="Typing SVG" />
-</div>
-
----
-
-### 🧠 About Me
-
-I'm an AI Engineer who specializes in applying machine learning techniques to solve complex real-world problems.
- 
-- 🎓 MSc in Artificial Intelligence | BSc in Computer Science
-- 💡 Passionate about NLP, Computer Vision, and advanced data analytics
-
-### 🌐 Connect With Me
-<div align="left">
   <a href="https://www.mustafa.ovh" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
@@ -26,83 +12,112 @@ I'm an AI Engineer who specializes in applying machine learning techniques to so
   <a href="mailto:mustafamehmood8998@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/mustafameh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### About Me
 
-<div align="left" style="margin-bottom: 10px;">
-  <h4>🔍 Sherlock-AI: Character Emulation with LLMs 
-    <a href="https://www.sherlock.mustafa.ovh/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐-Demo-lightgrey?style=flat" align="right" alt="Live Demo"/>
-    </a>
-  </h4>
-</div>
-<details>
-<summary></summary>
+Applied Scientist at **Thomson Reuters**, building tool-augmented multi-agent systems for legal AI. I work at the intersection of LLMs, NLP, and real-world product deployment — from fine-tuning models for contract analysis to designing adversarial evaluation pipelines for agentic solutions.
 
-A transferable character emulation pipeline demonstrated with Sherlock Holmes, featuring:
-- Fine-tuned a quantized LLaMA model using LoRA
-- Serverless architecture on AWS Lambda
-- Integrated text-to-speech for realistic interactions
-- 72.4% user preference in A/B testing
+- MSc Artificial Intelligence (Distinction) & BSc Computer Science — University of Nottingham
+- Published researcher in ML-driven medical diagnosis
+- Previously trained reasoning LLMs through RLHF at **Outlier AI**, contributing to models used by Google and Meta
 
-🔗 [GitHub Repo](https://github.com/mustafameh/Sherlock-LLM)
+---
 
-**Tech Stack:** Hugging Face Transformers, LoRA, Flask, JavaScript, VITS
-</details>
+### Featured Projects
 
-<div align="left" style="margin: 20px 0 10px 0;">
-  <h4>📚 CourseCompanion: RAG-Powered Course Assistant 
-    <a href="https://www.coursecompanion.mustafa.ovh/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐-Demo-lightgrey?style=flat" align="right" alt="Live Demo"/>
-    </a>
-  </h4>
-</div>
-<details>
-<summary></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An educational platform that empowers AI teaching assistants by:
-- Auto-generating knowledge bases from course materials
-- Implementing Retrieval-Augmented Generation (RAG) with LangChain
-- Incorporating role-based access control for content management
+#### [Sherlock-AI](https://github.com/mustafameh/Sherlock-LLM) &nbsp; [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://www.sherlock.mustafa.ovh/)
 
-🔗 [GitHub Repo](https://github.com/mustafameh/Course-Content-Q-A)
+A transferable character emulation pipeline with Sherlock Holmes as the proof of concept.
 
-**Tech Stack:** LangChain, OAuth, Flask, PostgreSQL, Flair
-</details>
+- Fine-tuned a quantized LLaMA model with LoRA, automating dialogue extraction and synthetic data generation from public domain texts
+- ReAct-style reasoning for multi-step deductive analysis with dual inference (OpenRouter API + local GGUF)
+- Interactive story mode with branching mysteries, streaming structured output, and configurable writing styles
+- 72.4% user preference over baseline in A/B testing
 
-<div align="left" style="margin: 20px 0 10px 0;">
-  <h4>👁️ DeepGaze: Autism Diagnosis System 
-    <a href="https://youtu.be/c82RrlJVLvo" target="_blank">
-      <img src="https://img.shields.io/badge/📺-Demo-lightgrey?style=flat" align="right" alt="Demo Video"/>
-    </a>
-  </h4>
-</div>
-<details>
-<summary></summary>
+`Hugging Face` `LoRA` `Flask` `vLLM` `VITS`
 
-An innovative approach to early autism detection through:
-- Webcam-based eye-tracking integrated into a modular web app
-- Transfer learning with custom vision models achieving 92% diagnostic accuracy
+</td>
+<td width="50%" valign="top">
 
-🔗 [GitHub Repo](https://github.com/mustafameh/Automatic-Autism-Diagnosis-Eyetracking-Machinelearning-Research-Webapplication)
+#### [CourseCompanion](https://github.com/mustafameh/Course-Content-Q-A)
 
-**Tech Stack:** Python, Flask, JavaScript, Keras, OpenCV, WebGazer.js, sklearn
-</details>
+A RAG-powered educational platform for AI teaching assistants.
 
-### 💻 Tech Stack
+- Professors create AI assistants that auto-generate knowledge bases from course materials
+- Chat interfaces, FAQ system, and management dashboards
+- RAG with LangChain and Flair for context-aware responses
+- Deployed on DigitalOcean with Google Drive integration
+
+`LangChain` `Flask` `PostgreSQL` `Flair` `OAuth`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [DeepGaze](https://github.com/mustafameh/Automatic-Autism-Diagnosis-Eyetracking-Machinelearning-Research-Webapplication) &nbsp; [![Demo](https://img.shields.io/badge/Demo-Video-red?style=flat-square)](https://youtu.be/c82RrlJVLvo)
+
+Early autism detection from webcam-based eye-tracking data.
+
+- PCA + sklearn classifiers and a custom Keras CNN with transfer learning reaching **92% accuracy**
+- Modular Flask web app for data collection, visualization, prediction, and model retraining
+- **Published:** [Springer, 2024](https://link.springer.com/chapter/10.1007/978-981-97-7181-3_20) — *Pre-diagnosis for ASD Using Eye-Tracking and ML Techniques*
+
+`Keras` `OpenCV` `WebGazer.js` `Flask` `sklearn`
+
+</td>
+<td width="50%" valign="top">
+
+#### More Projects
+
+| Project | What |
+|---|---|
+| [EcoDiet Analytics](https://github.com/mustafameh/EcoDiet-Analytics-Environmental-Assessment-Dashboard-for-Oxford-s-Dietary-Research) | Environmental assessment dashboard for Oxford dietary research |
+| [Alzheimer's Prediction](https://github.com/mustafameh/Predicting-Alzheimers-Using-A-Genetics-Dataset-and-ML-Approaches-With-Big-Data-Methodologies) | ML on genetics data with Big Data methodologies |
+| [EEG Diagnosis](https://github.com/mustafameh/Diagnosis-Of-Parkinson-s-and-Schzophernia-from-EEG-using-ML-and-DeepLearning-) | Parkinson's & Schizophrenia diagnosis from EEG signals |
+| [Kashmiri ASR](https://github.com/mustafameh/KashmirirSpeechRecognition) | Web-scraped dataset + speech recognition for Kashmiri |
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech Stack
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML / AI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Infrastructure & Tools**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
