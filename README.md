@@ -80,12 +80,12 @@ Early autism detection from webcam-based eye-tracking data.
 
 #### More Projects
 
-| Project | What |
-|---|---|
-| [EcoDiet Analytics](https://github.com/mustafameh/EcoDiet-Analytics-Environmental-Assessment-Dashboard-for-Oxford-s-Dietary-Research) | Environmental assessment dashboard for Oxford dietary research |
-| [Alzheimer's Prediction](https://github.com/mustafameh/Predicting-Alzheimers-Using-A-Genetics-Dataset-and-ML-Approaches-With-Big-Data-Methodologies) | ML on genetics data with Big Data methodologies |
-| [EEG Diagnosis](https://github.com/mustafameh/Diagnosis-Of-Parkinson-s-and-Schzophernia-from-EEG-using-ML-and-DeepLearning-) | Parkinson's & Schizophrenia diagnosis from EEG signals |
-| [Kashmiri ASR](https://github.com/mustafameh/KashmirirSpeechRecognition) | Web-scraped dataset + speech recognition for Kashmiri |
+<ul>
+<li><a href="https://github.com/mustafameh/EcoDiet-Analytics-Environmental-Assessment-Dashboard-for-Oxford-s-Dietary-Research"><b>EcoDiet Analytics</b></a> — Environmental assessment dashboard for Oxford dietary research</li>
+<li><a href="https://github.com/mustafameh/Predicting-Alzheimers-Using-A-Genetics-Dataset-and-ML-Approaches-With-Big-Data-Methodologies"><b>Alzheimer's Prediction</b></a> — ML on genetics data with Big Data methodologies</li>
+<li><a href="https://github.com/mustafameh/Diagnosis-Of-Parkinson-s-and-Schzophernia-from-EEG-using-ML-and-DeepLearning-"><b>EEG Diagnosis</b></a> — Parkinson's &amp; Schizophrenia diagnosis from EEG signals</li>
+<li><a href="https://github.com/mustafameh/KashmirirSpeechRecognition"><b>Kashmiri ASR</b></a> — Web-scraped dataset + speech recognition for Kashmiri</li>
+</ul>
 
 </td>
 </tr>
